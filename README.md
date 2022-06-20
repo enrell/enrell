@@ -1,4 +1,4 @@
-Ênrell, Estudante do IFPE.
+Ênrell, IFPE student.
 <div align="center">
   <a href="https://github.com/enrell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=DEG,8100A4,A50DB1,B01A9D,BB288A,C63576,D14263,DC4F4F&title_color=FFFFFF"/>
