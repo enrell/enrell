@@ -3,7 +3,6 @@
   <a href="https://github.com/enrell">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enrell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=DEG,8100A4,A50DB1,B01A9D,BB288A,C63576,D14263,DC4F4F&title_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrell&layout=compact&langs_count=7&theme=github_dark&title_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrell&layout=compact">
 </div>
   
 <div style="display: inline_block"><br>
