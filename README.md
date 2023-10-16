@@ -13,6 +13,10 @@
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enrell&theme=tokyonight" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enrell&theme=tokyonight&exclude=" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enrell&theme=tokyonight&exclude=HTML,CSS,Vue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enrell&theme=tokyonight&exclude=HTML,CSS,Vue" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enrell&theme=tokyonight&utcOffset=+3" />
   </a>
 </div>
