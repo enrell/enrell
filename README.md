@@ -2,7 +2,7 @@
 <div align="center">
   
   <a href="https://instagram.com/enrellsan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enrellsa10@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:enrellsa10@proton.me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/250px-ProtonMail_logo.svg.png" target="_blank" width="15%" alt="ProtonMail Logo"></a>
   <a href="https://www.linkedin.com/in/enrell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
