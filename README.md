@@ -1,22 +1,20 @@
-Ênrell, IFPE student.
 <div align="center">
-  
-  <a href="https://instagram.com/enrellsan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:enrellsa10@proton.me"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/ProtonMail_logo.svg/250px-ProtonMail_logo.svg.png" target="_blank" width="15%" alt="ProtonMail Logo"></a>
-  <a href="https://www.linkedin.com/in/enrell" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+ <p align="center">
+  <div>
+    <h1>Hi, I'm Ênrell! 👋👋 </h1> <br>
+    <p>Software Developer grinding hard to make something cool 🚀 </p> <br>
+    :email:	enrellsa10@gmail.com <br>
+    :art: Portfolio: https://enrell.vercel.app <br>
+          Dev Community: https://dev.to/enrell <br>
+  :briefcase: Building https://enrell.vercel.app - My portifolio site <br>
+
+  </div>
+</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enrell&theme=tokyonight" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enrell&theme=tokyonight" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enrell&theme=tokyonight&exclude=HTML,CSS,Vue" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enrell&theme=tokyonight&exclude=HTML,CSS,Vue" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enrell&theme=tokyonight&utcOffset=+3" />
-  </a>
+
 </div>
