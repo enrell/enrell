@@ -6,7 +6,7 @@
     :email:	enrellsa10@gmail.com <br>
 <!--     :art: Portfolio: https://enrell.vercel.app <br> -->
           Dev Community: https://dev.to/enrell <br>
-<!--   :briefcase: Building https://enrell.vercel.app - My portifolio site <br> -->
+  :briefcase: Building https://enrell.vercel.app - My portifolio site <br>
 
   </div>
 </p>
