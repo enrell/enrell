@@ -9,5 +9,10 @@
   :briefcase: Building https://enrell.vercel.app - My portifolio site <br>
 
   </div>
+  <div>
+   <br>
+   <br>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact" alt="enrell" /></p>
+  </div>
 </p>
 </div>
