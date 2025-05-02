@@ -3,7 +3,7 @@
   <div>
     <h1>Hi, I'm Ênrell! 👋👋 </h1> <br>
     <p>Software Engineer student grinding hard to make something cool 🚀 </p> <br>
-    :email:	enrellsa10@gmail.com <br>
+    :email:	enrellsa10@proton.me <br>
 <!--     :art: Portfolio: https://enrell.vercel.app <br> -->
           Dev Community: https://dev.to/enrell <br>
 
