@@ -2,7 +2,7 @@
  <p align="center">
   <div>
     <h1>Hi, I'm Ênrell! 👋👋 </h1> <br>
-    <p>Software Developer student grinding hard to make something cool 🚀 </p> <br>
+    <p>Software Engineer student grinding hard to make something cool 🚀 </p> <br>
     :email:	enrellsa10@gmail.com <br>
 <!--     :art: Portfolio: https://enrell.vercel.app <br> -->
           Dev Community: https://dev.to/enrell <br>
