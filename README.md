@@ -5,7 +5,7 @@
     <p>Software Engineer student grinding hard to make something cool 🚀 </p> <br>
     :email:	enrellsa10@proton.me <br>
 <!--     :art: Portfolio: https://enrell.vercel.app <br> -->
-          My Blog: https://enrell.github.io/
+          My Blog: https://enrell.github.io/ <br>
           Dev Community: https://dev.to/enrell <br>
 
   </div>
