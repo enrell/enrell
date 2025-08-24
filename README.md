@@ -12,7 +12,12 @@
   <div>
    <br>
    <br>
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook&hide=PHP" alt="enrell" /></p>
+      <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook" alt="enrell's top languages" />
+</picture>
+
   </div>
 </p>
 </div>
