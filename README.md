@@ -13,9 +13,9 @@
    <br>
    <br>
       <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS" alt="enrell's top languages" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript" alt="enrell's top languages" />
 </picture>
 
   </div>
