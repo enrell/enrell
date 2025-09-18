@@ -9,4 +9,4 @@ Software Engineer student grinding hard to make something cool 🚀
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript,PHP)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript,PHP,cmake,java,vue,svelte)
