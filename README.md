@@ -1,23 +1,12 @@
-<div align="center">
- <p align="center">
-  <div>
-    <h1>Hi, I'm Ênrell! 👋👋 </h1> <br>
-    <p>Software Engineer student grinding hard to make something cool 🚀 </p> <br>
-    :email:	enrellsa10@proton.me <br>
-<!--     :art: Portfolio: https://enrell.vercel.app <br> -->
-          My Blog: https://enrell.github.io/ <br>
-          Dev Community: https://dev.to/enrell <br>
+# Hi, I'm Ênrell! 👋👋
 
-  </div>
-  <div>
-   <br>
-   <br>
-      <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript" alt="enrell's top languages" />
-</picture>
+Software Engineer student grinding hard to make something cool 🚀
 
-  </div>
-</p>
-</div>
+📧 **Email:** enrellsa10@proton.me  
+<!-- 🎨 **Portfolio:** https://enrell.vercel.app   -->
+📝 **My Blog:** [https://enrell.github.io/](https://enrell.github.io/)  
+🌐 **Dev Community:** [https://dev.to/enrell](https://dev.to/enrell)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript,PHP)
