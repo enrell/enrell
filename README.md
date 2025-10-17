@@ -1,12 +1,35 @@
-# Hi, I'm Ênrell! 👋👋
+<div align="center">
+  <h1>Hi, I'm Ênrell! 👋</h1>
+</div>
 
-Software Engineer student grinding hard to make something cool 🚀
+I'm a Software Engineering student, and my work is driven by a powerful concept: **Ikigai (生き甲斐)**.
 
-📧 **Email:** enrellsa10@proton.me  
-<!-- 🎨 **Portfolio:** https://enrell.vercel.app   -->
-📝 **My Blog:** [https://enrell.github.io/](https://enrell.github.io/)  
-🌐 **Dev Community:** [https://dev.to/enrell](https://dev.to/enrell)
+> **Ikigai is a Japanese term for "a reason for being."** For me, I've found it in the craft of software development.
+>
+> My goal is to create opinionated software for geeks, developers, and anyone who spends their day in front of a computer. I believe our digital tools should be **personal, integrated, modular, and a joy to use**—not just functional.
+>
+> Building these tools, tailored precisely for this audience, is my Ikigai. It's what I love to do.
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=enrell&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,CSS,JavaScript,PHP,cmake,java,vue,svelte)
+### Find me around the web
+<p align="left">
+  <a href="mailto:enrellsa10@proton.me" target="_blank">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://enrell.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
+  </a>
+  <a href="https://dev.to/enrell" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  </a>
+</p>
+
+---
+
+### Languages and Tools
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,javascript,python,rust,go,docker,postgres" />
+  </a>
+</p>
