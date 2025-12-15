@@ -30,6 +30,6 @@ I'm a Software Engineering student, and my work is driven by a powerful concept:
 ### Languages and Tools
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,javascript,python,rust,go,docker,postgres" />
+    <img src="https://skillicons.dev/icons?i=rust,python,ts" />
   </a>
 </p>
