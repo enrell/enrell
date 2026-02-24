@@ -17,7 +17,7 @@ I'm a Software Engineering student, and my work is driven by a powerful concept:
   <a href="mailto:enrellsa10@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://enrell.github.io/myblog" target="_blank">
+  <a href="https://enrell.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Blog-1A1A1A?style=for-the-badge&logo=github&logoColor=white" alt="Blog"/>
   </a>
   <a href="https://dev.to/enrell" target="_blank">
