@@ -23,6 +23,9 @@ I'm a Software Engineering student, and my work is driven by a powerful concept:
   <a href="https://dev.to/enrell" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
+  <a href="https://medium.com/@enrellsa10" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
+  </a>
 </p>
 
 ---
