@@ -6,8 +6,6 @@ I'm a Software Engineering student, and my work is driven by a powerful concept:
 
 > **Ikigai is a Japanese term for "a reason for being."** For me, I've found it in the art of software development.
 >
-> I believe our digital tools should be **personal, private, and a joy to use** just functional is not enough for me.
->
 > Software development is my Ikigai. It's what I love to do.
 
 ---
