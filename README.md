@@ -41,6 +41,6 @@ My work is driven by a powerful concept: **Ikigai (生き甲斐)**.
 ### Languages and Tools
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,python" />
+    <img src="https://skillicons.dev/icons?i=rust,go,ts,python" />
   </a>
 </p>
