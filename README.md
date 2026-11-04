@@ -3,7 +3,6 @@
 </div>
 Education: Software Engineering — Federal Institute of Pernambuco (IFPE), Brazil.
 Work with: Professional Reverse Engineering, Web Crawlers & Anti-bot.
----
 
 ### Find me around the web
 <p align="left">
