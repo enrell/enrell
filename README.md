@@ -1,15 +1,8 @@
 <div align="center">
   <h1>Hi, I'm Ênrell! 👋</h1>
 </div>
-Work at: 123milhas | Brazil
 Education: Software Engineering — Federal Institute of Pernambuco (IFPE), Brazil.
-
-My work is driven by a powerful concept: **Ikigai (生き甲斐)**.
-
-> **Ikigai is a Japanese term for "a reason for being."** For me, I've found it in the art of software development, reverse engenieering and research.
->
-> Software development is my Ikigai. It's what I love to do.
-
+Work with: Professional Reverse Engineering, Web Crawlers & Anti-bot.
 ---
 
 ### Find me around the web
