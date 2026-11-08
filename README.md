@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Ênrell! 👋</h1>
 </div>
-Education: Software Engineering — Federal Institute of Pernambuco (IFPE), Brazil.
+Education: Software Engineering — Federal Institute of Pernambuco (IFPE), Brazil. <br>
 Work with: Professional Reverse Engineering, Web Crawlers & Anti-bot.
 
 ### Find me around the web
